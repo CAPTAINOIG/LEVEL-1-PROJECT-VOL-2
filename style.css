@@ -1,0 +1,58 @@
+body {
+    overflow: hidden;
+}
+#mif {
+    background-color: rgb(244, 246, 244);
+}
+.dash {
+    margin-top: 5%;
+    margin-left: 30%;
+}
+.tech {
+    height: 52%;
+    width: 60%;
+    margin-top: 30px;
+    margin-left: 120px;
+    background-color: white;
+}
+input {
+    width: 340px;
+    height: 45px;
+    margin-left: 20px;
+}
+.log {
+    width: 340px;
+    height: 45px;
+    margin-left: 20px;
+    background-color: rgb(0, 112, 210);
+    color: white;
+    margin-top: 20px;
+    border: 0px;
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.log:hover
+{
+    background-color: blue;
+}
+a {
+    text-decoration: none;
+}
+.turtle {
+    margin-left: 40px;
+    width: 110px;
+    height: 40px;
+    margin-top: 20px;
+    border: 1px solid wheat;
+    background-color: whitesmoke;
+    color:rgb(0, 112, 210) ;
+    font-size: 14px;       
+}
+.play {
+    margin-left: 190px;
+}
+.high {
+    margin-top: 30px;
+    font-size: 12px;
+    margin-left: 200px;
+}
